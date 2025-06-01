@@ -10,6 +10,7 @@ DOMAIN-KEYWORD,1e100
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,hub.docker.com
 DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,dns.google
